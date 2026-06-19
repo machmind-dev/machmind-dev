@@ -2,7 +2,7 @@
 
 <p align="left">
   <picture>
-    <img src="logo-light.svg" alt="Mach Mind" width="500">
+    <img src="logo-text.svg" alt="Mach Mind">
   </picture>
 </p>
 
