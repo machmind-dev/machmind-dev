@@ -1,8 +1,8 @@
 # Mach Mind Team
 
-<p align="left">
+<p align="center">
   <picture>
-    <img src="logo-text.svg" alt="Mach Mind">
+    <img src="logo-light.svg" alt="Mach Mind">
   </picture>
 </p>
 
