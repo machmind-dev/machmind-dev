@@ -4,6 +4,7 @@
   <picture>
     <img src="logo-light.svg" alt="Mach Mind">
   </picture>
+</br>
   Collective intelligence at Mach speed
 </p>
 
